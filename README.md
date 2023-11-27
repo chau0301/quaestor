@@ -221,7 +221,7 @@ cp .env .env.example
 
 ## Meta
 
-M. Zahash – zahash.z@gmail.com
+Mr. Chau – nongngocchau1@gmail.com
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
